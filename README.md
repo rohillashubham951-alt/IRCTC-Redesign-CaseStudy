@@ -30,3 +30,15 @@ The main challenges faced by users when using the IRCTC website or mobile applic
   - Cannot book round trips in one transaction; repetitive processes
   - Difficulty in saving/managing passenger details for frequent bookings
   - Error messages often unclear or placed away from the area of concern
+
+## Problem Statement
+
+The current IRCTC platform struggles to deliver a smooth booking experience due to unreliable performance, confusing navigation, and outdated interface design. These issues result in user frustration, failed bookings, and an overall lack of trust in the digital ticketing experience.
+
+## Design Goals
+
+- Simplify the end-to-end booking journey into intuitive, minimal steps.
+- Reduce cognitive load by organizing information and removing clutter.
+- Use clear language and visual hierarchy to make terminology understandable.
+- Ensure reliability and trust through clean design, fast response, and clear feedback systems.
+- Introduce accessibility and responsiveness to make the platform mobile-friendly.
