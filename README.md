@@ -1,3 +1,5 @@
+![WhatsApp Image 2025-10-23 at 15 52 38_b190b379](https://github.com/user-attachments/assets/f5db5443-0ecb-47ea-9cdc-dc434840b907)
+
 ## IRCTC Website Redesign: UI/UX Case Study & Data Analysis
 
 This case study focuses on analyzing and redesigning the IRCTC railway booking website to enhance user experience and streamline ticket booking. By identifying inefficiencies in the current user flow and navigation, conducting user-centric research, and proposing a modernized interface with improved data structures, this project aims to demonstrate the impact of thoughtful design in solving real-world problems.
@@ -112,3 +114,11 @@ If the new design leads to faster bookings, fewer errors, and happier users, it 
 - Figma (for wireframes and prototypes)
 - Canva (for any charts or visuals)
 - Markdown & GitHub (for documentation and project showcase)
+
+## Conclusion
+
+Through this case study, I analyzed the major challenges users face with the IRCTC booking experience and explored solutions through modern UI/UX principles. By combining user-focused research with clear design goals, I created a set of wireframes aimed at making ticket booking simpler, faster, and less stressful for millions of travelers.
+
+This project strengthened my abilities in user research, interface design, and problem-solving. I’m excited to build on these skills and help improve digital experiences in the travel industry and beyond.
+
+Thank you for viewing my work! I welcome any feedback or suggestions.
