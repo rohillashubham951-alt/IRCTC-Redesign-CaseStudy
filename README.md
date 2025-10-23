@@ -89,3 +89,14 @@ Based on user research and design goals, I created high-fidelity wireframes in F
 ### Manage Your IRCTC Account Page
 <img width="412" height="917" alt="Manage Your IRCTC Account Page" src="https://github.com/user-attachments/assets/c89e19b7-312a-48ce-b91b-aa0ee9deacb5" />
 
+## A/B Testing Plan
+To see if my redesign actually improves the user experience, I would run an A/B test—showing half the users the old IRCTC website (“A”), and half the users my new design (“B”).
+
+I’d then compare these results for each group:
+- How quickly users could book a ticket
+- How many errors or failed bookings happened
+- How satisfied users felt after booking
+
+If the new design leads to faster bookings, fewer errors, and happier users, it proves my redesign is successful.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb3b9b22-2356-45b2-9c4f-e431eb6d3534" />
