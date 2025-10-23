@@ -100,3 +100,15 @@ I’d then compare these results for each group:
 If the new design leads to faster bookings, fewer errors, and happier users, it proves my redesign is successful.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb3b9b22-2356-45b2-9c4f-e431eb6d3534" />
+
+## Future Scope
+
+- Conduct live usability testing with participants
+- Iterate design for improved accessibility and multilingual support
+- Prepare interactive high-fidelity prototype for developer handoff
+
+## Tools Used
+
+- Figma (for wireframes and prototypes)
+- Canva (for any charts or visuals)
+- Markdown & GitHub (for documentation and project showcase)
